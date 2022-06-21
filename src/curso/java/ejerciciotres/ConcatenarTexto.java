@@ -2,7 +2,7 @@ package curso.java.ejerciciotres;
 
 import java.util.Scanner;
 
-public class Main {
+public class ConcatenarTexto {
     public static void main(String[] args) {
 
         Scanner scanner = new Scanner(System.in);
